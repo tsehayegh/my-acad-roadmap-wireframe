@@ -1,0 +1,15 @@
+{
+	"studentid": 1,
+	"first-name":"Tom",
+	"last-name": "David",
+	"user-name":null,
+	"password": null,
+	"acad-program": "A25800A",
+	"start-semester": "2018FA",
+	"plan": {"Semester": null,
+			"course-codes": [],
+			"course-titles": [],
+			"credit-hours":[],
+			"group":[]}
+
+}
